@@ -18,7 +18,7 @@ Interactive data exploration and stock price predictions based on news and compa
 
 ![](Screenshots/eventstudy.png)
 
-![](Screenshots/yaraAR.png=100x200)
+![](Screenshots/yaraAR.png=10x20)
 
 ![](Screenshots/yaraKFGARCH.png)
 
