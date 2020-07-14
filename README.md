@@ -28,7 +28,7 @@ It can for example reveal how, on average, each type of event impact stock price
 
 ## How abnormal return (AR) is calculated
 
-First, due to **volatility clustering**, seen in grey in the figure below (for the company YARA), adjustment is done by using generalized autoregressive conditional heteroskedasticity [(GARCH)](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity) modeling:
+First, due to **volatility clustering**, seen in grey in the figure below (for the example company [YARA](https://www.yara.com/)), adjustment is done by using generalized autoregressive conditional heteroskedasticity [(GARCH)](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity) modeling:
 
 ![](Screenshots/yaraAR.png)
 
