@@ -27,9 +27,11 @@ It can for example reveal how, on average, each type of event impact stock price
 
 ## How abnormal return (AR) is calculated
 
-First, due to volatility clustering, seen in grey in the figure below (for the company YARA), adjustment is done by using generalized autoregressive conditional heteroskedasticity [(GARCH)](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity)
+First, due to **volatility clustering**, seen in grey in the figure below (for the company YARA), adjustment is done by using generalized autoregressive conditional heteroskedasticity [(GARCH)](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity):
 
 ![](Screenshots/yaraAR.png)
+
+Then, a dynamic **market model** handling varying time-dependency (solving the limitations of static OLS based [CAPM](https://en.wikipedia.org/wiki/Capital_asset_pricing_model), using a [Kalman filter], inspired by the work of [Mergner and Bulla] (https://www.tandfonline.com/doi/full/10.1080/13518470802173396), for examples models the (quite varying) market **beta** of company YARA as seen below:
 
 ![](Screenshots/yaraKFGARCH.png)
 
