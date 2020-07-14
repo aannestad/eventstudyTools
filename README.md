@@ -12,3 +12,4 @@ Interactive data exploration and stock price predictions based on news and compa
 
 ![alt text](https://user-images.githubusercontent.com/44523247/87425885-b3e8a000-c5de-11ea-80d3-b59ef10f5c52.png)
 
+https://wikimedia.org/api/rest_v1/media/math/render/svg/583cca32cbdd337bcc4b07c5748fb2ba2c1184c8
