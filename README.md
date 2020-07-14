@@ -1,7 +1,7 @@
 # eventstudySuite
 Interactive data exploration and stock price predictions based on news and company events
 
-This was build for enabling my master's thesis in Economic Analysis at the Norwegian School of Economics (NHH). Given stock price data and a database of news and events, it has a range of features for empirical inference of how stock prices react to new fundamental information.
+This was build for enabling my master's thesis in Economic Analysis at the Norwegian School of Economics (NHH). Given stock price data and a database of news and events, it has a range of features for empirical inference of how stock prices react to new fundamental information. The examples below is based on the most recent 20,000 events related to the 35 largest companies on the Oslo Stock Exchange.
 
 <!---[First equation](https://latex.codecogs.com/gif.latex?\dpi{400}\alpha&space;+&space;\frac{2\beta}{\gamma})--->
 
@@ -14,11 +14,14 @@ This was build for enabling my master's thesis in Economic Analysis at the Norwe
 <!---[alt1](https://wikimedia.org/api/rest_v1/media/math/render/svg/583cca32cbdd337bcc4b07c5748fb2ba2c1184c8)--->
 
 ## Highlight 1: Event windows
-Automatic generation of **event windows**. As an example, here is the interesting event of *DIVIDEND PAYMENTS*, indicating the profitable strategy of buying ahead of payments of dividends.
+Automatic generation of **event windows**. As an example, here is the interesting event of *DIVIDEND PAYMENTS*, indicating the profitable strategy of buying ahead of dividend payouts:
 
 ![](Screenshots/eventwindow.png)
 
 <!---[](Screenshots/eventperiod.png)--->
+
+## Highlight 2: Aggregation of event statistics
+For example how, on average, each type of event impact stock prices that day: 
 
 ![](Screenshots/eventstudy.png)
 
