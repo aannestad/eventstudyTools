@@ -1,7 +1,7 @@
 # eventstudySuite
 Interactive data exploration and stock price predictions based on news and company events
 
-This was build for enabling my master's thesis in Economic Analysis at the Norwegian School of Economics (NHH). Given stock price data and a database of news and events, it has plenty of features for empirical inferences on the subsequent data
+This was build for enabling my master's thesis in Economic Analysis at the Norwegian School of Economics (NHH). Given stock price data and a database of news and events, it has plenty of features for empirical inference on the ways stock prices react to fundamental information.
 
 <!---[First equation](https://latex.codecogs.com/gif.latex?\dpi{400}\alpha&space;+&space;\frac{2\beta}{\gamma})--->
 
