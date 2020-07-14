@@ -6,4 +6,4 @@ Interactive data exploration and stock price predictions based on news and compa
 
 ![Second equation](http://latex.codecogs.com/gif.latex?%5Cfrac%7Ba%7D%7Bb%7D)
 
-!(https://latex.codecogs.com/svg.latex?sin(5)*4)
+![Third equation](https://latex.codecogs.com/svg.latex?sin(5)*4)
