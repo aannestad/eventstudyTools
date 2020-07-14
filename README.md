@@ -18,6 +18,8 @@ Automatic generation of **event windows**. As an example, here is the interestin
 
 ![](Screenshots/eventwindow.png)
 
+Such windows can easily be tailored and explored interactively to pursuit any news and event of interest, finding possible market inefficiencies from actors trading on inside information to naturally occuring trading oppurtunities.
+
 <!---[](Screenshots/eventperiod.png)--->
 
 ## Highlight 2: Aggregation of event statistics
