@@ -21,7 +21,7 @@ Automatic generation of **event windows**. As an example, here is the interestin
 <!---[](Screenshots/eventperiod.png)--->
 
 ## Highlight 2: Aggregation of event statistics
-For example how, on average, each type of event impact stock prices that day: 
+It can for example reveal how, on average, each type of event impact stock prices *that* day: 
 
 ![](Screenshots/eventstudy.png)
 
