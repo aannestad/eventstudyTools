@@ -8,4 +8,4 @@ Interactive data exploration and stock price predictions based on news and compa
 
 ![Third equation](https://latex.codecogs.com/svg.latex?\sum_{i=1}^{n}sqrt(3sin(i)))
 
-![Third equation](https://latex.codecogs.com/svg.latex?\dpi{200}\sum_{i=1}^{n}sqrt(3sin(i)))
+![Third equation](https://latex.codecogs.com/svg.latex?\dpi{400}\sum_{i=1}^{n}sqrt(3sin(i)))
