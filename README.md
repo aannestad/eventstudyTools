@@ -36,6 +36,9 @@ Then, a dynamic **market model** handling time-varying dependency (solving limit
 
 ![](Screenshots/yaraKFGARCH.png)
 
+# Descriptive statistics
+Tables with relevant stats are also produced readily:
+
 ![](Screenshots/discrstats.png)
 
 
