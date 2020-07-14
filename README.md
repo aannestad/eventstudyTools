@@ -14,7 +14,7 @@ Interactive data exploration and stock price predictions based on news and compa
 
 ![ew](Screenshots/eventwindow.png)
 
-![](Screenshots/eventperiod.png)
+!(Screenshots/eventperiod.png)
 
 
 
