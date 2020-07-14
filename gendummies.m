@@ -1,5 +1,7 @@
 function gendummies
 
+% This function loads ticker data and categorized events, generates and saves dummy category vectors for all tickers to disk
+
 load maintickers
 load category20
 categorylist = category;
