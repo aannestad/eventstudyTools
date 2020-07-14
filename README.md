@@ -16,7 +16,7 @@ Below is an example of an **event window**, in this case, for the interesting ev
 
 ![](Screenshots/eventwindow.png)
 
-![](Screenshots/eventperiod.png)
+<!---[](Screenshots/eventperiod.png)--->
 
 ![](Screenshots/eventstudy.png)
 
