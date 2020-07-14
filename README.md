@@ -18,7 +18,7 @@ Automatic generation of **event windows**. As an example, here is the interestin
 
 ![](Screenshots/eventwindow.png)
 
-Such windows can easily be tailored and explored interactively to pursuit any news and event of interest, finding possible market inefficiencies from actors trading on inside information to naturally occuring trading oppurtunities.
+The **Event windows** can easily be tailored and explored interactively to pursuit any news or events of interest, finding possible market inefficiencies from ranging from effects stemming from insider trading to naturally occuring trading oppurtunities.
 
 <!---[](Screenshots/eventperiod.png)--->
 
