@@ -20,7 +20,7 @@ Interactive data exploration and stock price predictions based on news and compa
 
 ![](Screenshots/yaraAR.png)
 
-![](Screenshots/yaraKFGARCH.png = 5x)
+![](Screenshots/yaraKFGARCH.png =250x)
 
 ![](Screenshots/discrstats.png)
 
