@@ -32,7 +32,7 @@ First, due to **volatility clustering**, seen in grey in the figure below (for t
 
 ![](Screenshots/yaraAR.png)
 
-Then, a dynamic **market model** handling time-varying dependency (solving the limitations of static OLS based [CAPM](https://en.wikipedia.org/wiki/Capital_asset_pricing_model), using a [Kalman filter], inspired by the work of [Mergner and Bulla](https://www.tandfonline.com/doi/full/10.1080/13518470802173396), for examples models the (quite varying) market **beta** of company YARA as seen below:
+Then, a dynamic **market model** handling time-varying dependency (solving the limitations of static OLS based [CAPM](https://en.wikipedia.org/wiki/Capital_asset_pricing_model), using a [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter) inspired by the work of [Mergner and Bulla](https://www.tandfonline.com/doi/full/10.1080/13518470802173396), for examples models the (quite varying) market **beta** of company YARA as seen below:
 
 ![](Screenshots/yaraKFGARCH.png)
 
