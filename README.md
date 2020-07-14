@@ -12,7 +12,7 @@ Interactive data exploration and stock price predictions based on news and compa
 <!---[alt1](https://wikimedia.org/api/rest_v1/media/math/render/svg/583cca32cbdd337bcc4b07c5748fb2ba2c1184c8)--->
 
 ## Event windows
-Below is an example of an **event window**, in this case, for the interesting event of *DIVIDEND PAYMENTS*, indicating the profitable strategy of buying ahead of payments of dividends.
+The suite supports automatic generation of **event windows**. As an example, here is the interesting event of *DIVIDEND PAYMENTS*, indicating the profitable strategy of buying ahead of payments of dividends.
 
 ![](Screenshots/eventwindow.png)
 
