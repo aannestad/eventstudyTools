@@ -10,5 +10,5 @@ Interactive data exploration and stock price predictions based on news and compa
 
 ![Third equation](https://latex.codecogs.com/gif.latex?\dpi{200}\sum_{i=1}^{n}\sqrt(3sin(i)))
 
-https://github.com/aannestad/eventstudySuite/issues/1#issue-656576251
+(https://github.com/aannestad/eventstudySuite/issues/1#issue-656576251)
 
