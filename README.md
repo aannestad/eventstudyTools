@@ -23,7 +23,7 @@ The **event windows** can easily be tailored and explored interactively to pursu
 <!---[](Screenshots/eventperiod.png)--->
 
 ## Highlight 2: Aggregation of event statistics
-It includes capabilities for revealing how, on average, each type of event impacts stock prices, for instance on the day of the event. Here in terms of **abnormal return** (AR):
+It includes capabilities for revealing how, on average, each type of event impacts stock prices, for instance on the day of the event, here in terms of **abnormal return** (AR):
 
 ![](Screenshots/eventstudy.png)
 
