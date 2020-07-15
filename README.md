@@ -29,16 +29,16 @@ It includes capabilities for revealing how, on average, each type of event impac
 
 ## How abnormal return (AR) is calculated
 
-First, due to **volatility clustering**, seen in grey in the figure below (for the example company [YARA](https://www.yara.com/)), adjustment is done by using generalized autoregressive conditional heteroskedasticity [(GARCH)](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity) modeling:
+First, **volatility clustering**, seen in grey in the figure below (for the example company [YARA](https://www.yara.com/)), is handled by generalized autoregressive conditional heteroskedasticity [(GARCH)](https://en.wikipedia.org/wiki/Autoregressive_conditional_heteroskedasticity) modeling:
 
 ![](Screenshots/yaraAR.png)
 
-Then, a dynamic **market model** handling time-varying dependency (solving limitations of the static [OLS](https://en.wikipedia.org/wiki/Ordinary_least_squares) based [CAPM)](https://en.wikipedia.org/wiki/Capital_asset_pricing_model), using a [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter) inspired by the work of [Mergner and Bulla](https://www.tandfonline.com/doi/full/10.1080/13518470802173396), for examples models the (quite varying) [market beta](https://en.wikipedia.org/wiki/Beta_(finance)), again of example company YARA, as seen below:
+Then, a dynamic **market model** for time-varying dependency (solving limitations of static [OLS](https://en.wikipedia.org/wiki/Ordinary_least_squares) based [CAPM)](https://en.wikipedia.org/wiki/Capital_asset_pricing_model), using a [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter) inspired by the work of [Mergner and Bulla](https://www.tandfonline.com/doi/full/10.1080/13518470802173396), for example models the (varying) [market beta](https://en.wikipedia.org/wiki/Beta_(finance)), of example company YARA, as seen below:
 
 ![](Screenshots/yaraKFGARCH.png)
 
 # Descriptive statistics
-Tables with relevant stats are also produced readily, here for the 35 companies included in my study:
+Finally, tables with relevant statistics are produced efficiently, here for the 35 companies included in this particular study:
 
 ![](Screenshots/discrstats.png)
 
