@@ -2,7 +2,7 @@
 Interactive data exploration and stock price predictions based on news and company events
 
 ## About the project
-This was build for enabling my master's thesis in Economic Analysis at the Norwegian School of Economics (NHH). Given stock price data and a database of news and events, it has a range of features for empirical inference of how stock prices react to new fundamental information. The examples below is based on the most recent 20,000 events related to the 35 largest companies on the Oslo Stock Exchange. 
+Financial event study tools built to enable my master's thesis in Economic Analysis at the Norwegian School of Economics (NHH). Given stock price data and a database of news and events, it has a range of features for empirical inference of how stock prices react to new fundamental information. The examples below are based on the most recent 20,000 events related to the 35 largest companies on the Oslo Stock Exchange. 
 
 <!---[First equation](https://latex.codecogs.com/gif.latex?\dpi{400}\alpha&space;+&space;\frac{2\beta}{\gamma})--->
 
@@ -18,12 +18,12 @@ This was build for enabling my master's thesis in Economic Analysis at the Norwe
 Automatic generation of **event windows**. As an example, here is the interesting event of *DIVIDEND PAYMENTS*, indicating the profitable strategy of buying ahead of dividend payouts:
 
 ![](Screenshots/eventwindow.png)
-The **event windows** can easily be tailored and explored interactively to pursuit any news or events of interest, finding possible market inefficiencies ranging from effects stemming from insider trading to naturally occuring trading oppurtunities.
+The **event windows** can easily be tailored and explored interactively to pursue any news or event of interest, finding possible market inefficiencies ranging from insider trading and information leakage, to naturally occuring oppurtunities in the markets.
 
 <!---[](Screenshots/eventperiod.png)--->
 
 ## Highlight 2: Aggregation of event statistics
-It can for example reveal how, on average, each type of event impact stock prices *that* day (by abnormal return (AR)): 
+It includes tools for revealing how, on average, each type of event impact stock prices on the current day, in terms of **abnormal return** (AR):
 
 ![](Screenshots/eventstudy.png)
 
