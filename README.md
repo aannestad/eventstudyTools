@@ -18,12 +18,12 @@ Financial event study tools built to enable my master's thesis in Economic Analy
 Automatic generation of **event windows**. As an example, here is the interesting event of *DIVIDEND PAYMENTS*, indicating the profitable strategy of buying ahead of dividend payouts:
 
 ![](Screenshots/eventwindow.png)
-The **event windows** can easily be tailored and explored interactively to pursue any news or event of interest, finding possible market inefficiencies ranging from insider trading and information leakage, to naturally occuring oppurtunities in the markets.
+The **event windows** can easily be tailored and explored interactively to pursue any news or event of interest, finding possible market inefficiencies ranging from insider trading and information leakage, to naturally occurring opportunities in the markets.
 
 <!---[](Screenshots/eventperiod.png)--->
 
 ## Highlight 2: Aggregation of event statistics
-It includes capabilities for revealing how, on average, each type of event impact stock prices, for instance on the day of the event. Here in terms of **abnormal return** (AR):
+It includes capabilities for revealing how, on average, each type of event impacts stock prices, for instance on the day of the event. Here in terms of **abnormal return** (AR):
 
 ![](Screenshots/eventstudy.png)
 
