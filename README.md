@@ -1,4 +1,4 @@
-# eventstudySuite
+# eventstudyTools
 Interactive data exploration and stock price predictions based on news and company events
 
 This was build for enabling my master's thesis in Economic Analysis at the Norwegian School of Economics (NHH). Given stock price data and a database of news and events, it has a range of features for empirical inference of how stock prices react to new fundamental information. The examples below is based on the most recent 20,000 events related to the 35 largest companies on the Oslo Stock Exchange. 
