@@ -33,7 +33,7 @@ First, **volatility clustering**, seen in grey in the figure below (for the exam
 
 ![](Screenshots/yaraAR.png)
 
-Then, a dynamic **market model** for time-varying dependency (solving limitations of static [OLS](https://en.wikipedia.org/wiki/Ordinary_least_squares) based [CAPM)](https://en.wikipedia.org/wiki/Capital_asset_pricing_model), using a [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter) inspired by the work of [Mergner and Bulla](https://www.tandfonline.com/doi/full/10.1080/13518470802173396), for example models the (varying) [market beta](https://en.wikipedia.org/wiki/Beta_(finance)), of example company YARA, as seen below:
+Then, a dynamic **market model** for time-varying dependency (solving limitations of static [OLS](https://en.wikipedia.org/wiki/Ordinary_least_squares) based [CAPM)](https://en.wikipedia.org/wiki/Capital_asset_pricing_model), using a [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter) inspired by the work of [Mergner and Bulla](https://www.tandfonline.com/doi/full/10.1080/13518470802173396), models the (varying) [market beta](https://en.wikipedia.org/wiki/Beta_(finance)), of example company YARA, as seen below:
 
 ![](Screenshots/yaraKFGARCH.png)
 
