@@ -38,7 +38,7 @@ Then, a dynamic **market model** for time-varying dependency (solving limitation
 ![](Screenshots/yaraKFGARCH.png)
 
 # Descriptive statistics
-Finally, tables with relevant statistics are produced efficiently, here for the 35 companies included in this particular study:
+Finally, tables with relevant statistics are produced readily, here for the 35 companies included in this particular study:
 
 ![](Screenshots/discrstats.png)
 
